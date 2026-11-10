@@ -1,0 +1,12 @@
+{
+  "venvPath": "C:\\Users\\curre\\AppData\\Local\\Python",
+  "venv": "pythoncore-3.14-64",
+  "extraPaths": [
+    "C:\\Users\\curre\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages"
+  ],
+  "typeCheckingMode": "basic",
+  "reportOptionalSubscript": "none",
+  "reportOptionalMemberAccess": "none",
+  "reportAttributeAccessIssue": "none",
+  "reportArgumentType": "none"
+}
